@@ -1,6 +1,6 @@
 # API Observatorio Videnza Instituto
 
-Repositorio con una guía práctica para consumir la API del Observatorio de Propuestas del Bicentenario.
+Guía práctica para consumir la API del Observatorio de Propuestas del Bicentenario.
 
 ## Contenido
 
